@@ -16,6 +16,13 @@ This project aims:
 - Visitor log management
 - Visitor ID generation
 
+## System Workflow
+1. Visitor inputs personal details
+2. System captures photo and signature
+3. Data is stored in MySQL database
+4. Admin accesses dashboard to view and manage records
+5. Visitor ID can be generated if required
+
 ## System Requirements
 ### Hardware
 - Desktop or laptop computer (check-in station)
