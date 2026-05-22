@@ -1,2 +1,26 @@
-# Office-visitors-management-system
-A digital Office Visitors Management System developed for DICT Biliran to replace manual logbooks. It records visitor details, captures photos and signatures, and provides an admin dashboard for managing logs, tracking visits, and generating visitor IDs using Java and MySQL.
+# Implementation of Office Visitors Management System for Department of Information and Communications Technology - Biliran
+
+## Project Description
+The Office Visitors Management System (OVMS) is a digital solution developed for the Department of Information and Communications Technology (DICT) Biliran to replace the traditional handwritten logbook system. The system improves visitor tracking by providing a faster, more secure, and more organized way of recording visitor information.
+
+This project aims:
+1. To design and develop the OVMS tailored for DICT Biliran.
+2. To replace manual logbooks with a digital visitor registration system.
+3. To implement a secure admin dashboard for managing and monitoring visitor data.
+
+## Features
+- Digital visitor registration system
+- Photo capture integration
+- Signature recording
+- Secure admin dashboard
+- Visitor log management
+- Visitor ID generation
+
+## System Requirements
+### Hardware
+- Desktop or laptop computer (check-in station)
+- Camera (for visitor photo capture)
+
+### Software
+- Java (Frontend and Backend development)
+- MySQL Workbench (Database management and storage)
