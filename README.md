@@ -1,4 +1,4 @@
-# Implementation of Office Visitors Management System for Department of Information and Communications Technology - Biliran
+# Implementation of Office Visitors Management System for Department of Information and Communications Technology (DICT) - Biliran
 
 ## Project Description
 The Office Visitors Management System (OVMS) is a digital solution developed for the Department of Information and Communications Technology (DICT) Biliran to replace the traditional handwritten logbook system. The system improves visitor tracking by providing a faster, more secure, and more organized way of recording visitor information.
