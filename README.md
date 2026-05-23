@@ -17,7 +17,7 @@ This project aims:
 ![Admin Reports](screenshots/ovms-admin-reports.png)
 
 ### Distributions
-![Visitors Logbook](screenshots/ovms-logbook.png)
+![Visitors Logbook](screenshots/ovms-distribution.png)
 
 ## Features
 - Digital visitor registration system
