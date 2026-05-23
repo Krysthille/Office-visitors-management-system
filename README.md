@@ -8,6 +8,17 @@ This project aims:
 2. To replace manual logbooks with a digital visitor registration system.
 3. To implement a secure admin dashboard for managing and monitoring visitor data.
 
+## Screenshots
+
+### Visitors Logbook
+![Visitors Logbook](screenshots/ovms-logbook.png)
+
+### Admin Reports
+![Admin Reports](screenshots/ovms-admin-reports.png)
+
+### Distributions
+![Visitors Logbook](screenshots/ovms-logbook.png)
+
 ## Features
 - Digital visitor registration system
 - Photo capture integration
